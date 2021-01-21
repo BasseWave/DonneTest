@@ -1,4 +1,4 @@
-Projet:_Description,2c1_Releve_site_exterieur,2c1_Releve_site_exterieur-NUIT,2c2_Releve_toit,2c2_Releve_toit-NUIT,2c3_Releve_site_INterieur,2c3_Releve_site_INterieur-NUIT,2c4_Releve_Stationnment_Int.,2c4_Releve_Stationnment_Int.-NUIT,3b_Alignement,4b1_Plan_CAD_Interieur,4b2_Plan_CAD_Sol_sites,4b3_Plan_CAD_Toit,4b4_Plan_CAD_Plafond,4b5_Plan_CAD_Escaliers,4b6_Plan_CAD_Structure,4c_elevations_CAD,4c1_CAD_Trace_Maconnerie,4c2_CAD_Details,4f_Modelisation_3D_BIM,4f1_Creation_de_familles_BIM,4f2_Modelisation_MEP,4f3_Modelisation_structure,4f4_Modelisation_civil,7b_Livrable_Final,6h_Controle_Qualite_Validation
+Projet:_Description,RSE,2c1_Releve_site_exterieur-NUIT,2c2_Releve_toit,2c2_Releve_toit-NUIT,2c3_Releve_site_INterieur,2c3_Releve_site_INterieur-NUIT,2c4_Releve_Stationnment_Int.,2c4_Releve_Stationnment_Int.-NUIT,3b_Alignement,4b1_Plan_CAD_Interieur,4b2_Plan_CAD_Sol_sites,4b3_Plan_CAD_Toit,4b4_Plan_CAD_Plafond,4b5_Plan_CAD_Escaliers,4b6_Plan_CAD_Structure,4c_elevations_CAD,4c1_CAD_Trace_Maconnerie,4c2_CAD_Details,4f_Modelisation_3D_BIM,4f1_Creation_de_familles_BIM,4f2_Modelisation_MEP,4f3_Modelisation_structure,4f4_Modelisation_civil,7b_Livrable_Final,6h_Controle_Qualite_Validation
 12-056_50_des_Seigneurs_Mtl,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 14-155_Carriere_Prehistorique_Mt-Royal,0,0,0,0,0,0,0,0,3.75,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
 14-230_CHU_Ste-Justine,5.5,0,0,0,0,0,0,0,23.0833,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75
@@ -258,7 +258,7 @@ Mosquee_Phase_5,0,0,0,0,0,0,0,0,6.5833,0,0,0,0,0,0,0.5,0,0,44.9167,0,0,0,0,24.33
 17-897_Piles_Pont_Honore-Mercier,7.25,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,17.0833,0,0,0,0,0,2.25
 17-849_Gare_Windsor-Demo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.5833,0,0,0,0,0,0,0,0
 17-871_Musee_des_Ursulines,19.8333,0,0,0,2.4167,0,0,0,36.3333,0,0,0,0,0,0,0,0,0,478.9167,0,0,0,0,0,38.8333
-17-909_Pointe-à-Calliere_Multimedia,0,0,0,0,13.5833,0,0,0,13.25,67.75,0,0,0,0,0,0,0,0,107.5,0,0,0,0,3.0833,19.5
+17-909_Pointe-Ã -Calliere_Multimedia,0,0,0,0,13.5833,0,0,0,13.25,67.75,0,0,0,0,0,0,0,0,107.5,0,0,0,0,3.0833,19.5
 17-939_Validation_pieces,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 17-776_Patrimoine_Becancour,16.9167,0,0,0,0,0,0,0,16.8333,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4.4167
 17-930_4850_Cote_St-Luc,9,0,0,0,0,0,0,0,6.0833,0,0,0,0,0,0,48.9167,0,0,0,0,0,0,0,0,11.6667
@@ -349,7 +349,7 @@ Mosquee_Phase_5,0,0,0,0,0,0,0,0,6.5833,0,0,0,0,0,0,0.5,0,0,44.9167,0,0,0,0,24.33
 18-1111_Vitrerie_Sherbrooke_escalier,0,0,0,0,3.75,0,0,0,5.5,0,0,0,0,3.5833,0,0,0,0,44.5833,0,0,0,0,0.1667,30.9167
 18-1115_ecole_Ste-Bibiane,4.5,0,0,0,1,0,0,0,12.8333,3.9167,0,0,0,0,0,3.3333,0,0,42,0,0,0,0,0,5.5
 18-1117_Citadelle_Poudriere,1.5,0,0,0,1.5,0,0,0,3.8333,0,0,0,0,0,0,0,0,0,1.8333,0,0,0,0,1.25,5.1667
-18-1103_Theatre_Dame-cœur,11.5,0,0,0,0,0,0,0,19.25,0,16.5,0,0,0,0,0,0,0,0,0,0,0,0,1,1.1667
+18-1103_Theatre_Dame-cÂœur,11.5,0,0,0,0,0,0,0,19.25,0,16.5,0,0,0,0,0,0,0,0,0,0,0,0,1,1.1667
 18-1119_GOX_Objet3D,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7.5833,0,0,0,0,0.3333,1.1667
 18-1135_ecole_Ste-Claire,3.25,0,0,0,0,0,0,0,1.25,1.1667,0,0,0,0,0,46.75,0,0,0,0,0,0,0,0.8333,31.75
 18-988_Palais_Justice_Roberval_ajout_1,15.6667,0,0,0,34.3333,0,0,0,73.55,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2.4167,8.75
@@ -409,7 +409,7 @@ Mosquee_Phase_5,0,0,0,0,0,0,0,0,6.5833,0,0,0,0,0,0,0.5,0,0,44.9167,0,0,0,0,24.33
 18-1238_Fortification_Quebec,0,0,0,0,0,0,0,0,7.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.75
 18-1204_Passerelle_Borealis,21.6667,0,0,0,0,0,0,0,9.0833,0,0,0,0,0,0,0,0,0,51.5,0,0,0,0,0,1.3333
 18-1256_VFX_AC,0,0,0,0,8,12.3333,0,0,4.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-18-1260_Dawson_mise-à-jour_des_plans,0,0,0,0,10,0,0,0,5.1667,23.6667,0,0,0,0,0,0,0,0,0,0,0,0,0,2.4167,1.8333
+18-1260_Dawson_mise-Ã -jour_des_plans,0,0,0,0,10,0,0,0,5.1667,23.6667,0,0,0,0,0,0,0,0,0,0,0,0,0,2.4167,1.8333
 18-1266_CAPS_Piscine,0,0,0,0,0,0,0,0,1.8333,0,0,0,0,0,0,6.25,0,0,0,0,0,0,0,0,0.6667
 18-992_Ailes_de_la_mode-Phase_3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5.6667,0,0,0,0,0,1.5
 18-1213_Scotstown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -519,7 +519,7 @@ Mosquee_Phase_5,0,0,0,0,0,0,0,0,6.5833,0,0,0,0,0,0,0.5,0,0,44.9167,0,0,0,0,24.33
 19-1515-R-D_ISM3D_Echosound,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 19-1496-Extra-Barin-Readap_St-Hubert,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5.6667,0,0,11.75,0,0,0,0,0,0.5
 19-1503-Sonar_3D_Quai_de_Becancour,5.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2.25
-19-1345_Mur_à_Mur-MPOP_+_Museolab,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,38.0833,0,0,0,0,1.5,0.25
+19-1345_Mur_Ã _Mur-MPOP_+_Museolab,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,38.0833,0,0,0,0,1.5,0.25
 19-1525_ATFF_Viaduc_Martigues,0,0,0,0,0,0,0,0,5.4167,0,0,0,0,0,0,0,0,0,14,0,0,0,0,0,0
 19-1523-MU-Redpath,4.75,0,0,0,0,0,0,0,3.5,0,0,0,0,0,0,0,0,0,49.0833,0,0,0,0,0.4167,1
 19-1534-Sokcon-Pharmacie,0,0,0,0,0,0,0,0,0,1.3333,0,0,0,0,0,0,0,0,75.6667,0,0,0,0,0,0.75
@@ -594,7 +594,7 @@ Mosquee_Phase_5,0,0,0,0,0,0,0,0,6.5833,0,0,0,0,0,0,0.5,0,0,44.9167,0,0,0,0,24.33
 20-1771-CMI-360,0,0,0,0,9.5833,0,0,0,1.4167,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.9167,3.8333
 20-1782-Pro_Air_Liquide,2.5,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
 20-1399-2-Borealis_CIP-100ans-phase2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,180.1667,0,0,0,0,0,8.75
-20-1778-ETS-Four_à_pain,2.5,0,0,0,0,0,0,0,6.8333,0,0,0,0,0,0,4.4167,0,0,0,0,0,0,0,2,4.9167
+20-1778-ETS-Four_Ã _pain,2.5,0,0,0,0,0,0,0,6.8333,0,0,0,0,0,0,4.4167,0,0,0,0,0,0,0,2,4.9167
 20-1776_Oratoire_St-Joseph,0,0,0,0,0,0,0,0,5.1667,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.1667
 20-1769_FSA_Monitoring_Decelles,3.3333,0,2.75,0,0,0,0,0,3.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4.75
 20-1777_20-1905_CISSMC16_Charles_LeMoyne-Monitoring,2,0,5.75,0,0,0,0,0,2.8333,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.5
